@@ -8,7 +8,7 @@ Works with 15ARH05
 sudo ./lenovoideapadgaming3.py
 ```
 
-<img src="https://raw.githubusercontent.com/obsy/lenovoideapadgaming3/screenshot.png">
+<img src="https://raw.githubusercontent.com/obsy/lenovoideapadgaming3/refs/heads/main/screenshot.png">
 
 ## Function
 
